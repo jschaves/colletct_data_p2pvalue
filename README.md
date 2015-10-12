@@ -1,6 +1,6 @@
 # colletct_data_p2pvalue
 Get data for p2pvalue
-
+Script to collect data from Internet
 <h2>Script google_result_stats</h2>
 File google_result_stats.iim should be used with <a href="https://addons.mozilla.org/es/firefox/addon/imacros-for-firefox/">Imacros</a> plugin for Firefox.
 Set WAIT SECONDS=10 to the time in seconds to wait till next search, taking into account that, if you go too fast, Google can block you.
@@ -27,7 +27,7 @@ Get Followers Twitter
 Get Followers and views Google+
 Get GitHub Commits Branches Releases
 </pre>
-
+You have to give write rights to txt files and folders.
 As you know, in Internet, everything changes too fast, therefore the scripts might stop working: a mere character change can lead to failure of regular expression searches with the scripts.
 Also the language has to be considered, you should check the code and do necessary changes in the text, according to the language; for instance, as scripts are performing searches in Spanish, if we want to search in another language:
 <pre>
