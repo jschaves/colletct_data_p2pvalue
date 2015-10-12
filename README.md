@@ -4,6 +4,7 @@ Script to collect data from Internet
 <h2>Script google_result_stats</h2>
 File google_result_stats.iim should be used with <a href="https://addons.mozilla.org/es/firefox/addon/imacros-for-firefox/">Imacros</a> plugin for Firefox.<br />
 Set WAIT SECONDS=10 to the time in seconds to wait till next search, taking into account that, if you go too fast, Google can block you.<br />
+<h2>http://localhost/colletct_data_p2pvalue/google_result_stats/</h2>
 Enter this code in Imacros:
 <pre>
 VERSION BUILD=8820413 RECORDER=FX
