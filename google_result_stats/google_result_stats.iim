@@ -1,0 +1,8 @@
+VERSION BUILD=8820413 RECORDER=FX
+SET !EXTRACT_TEST_POPUP NO
+TAB T=1
+URL GOTO=http://localhost/get_dates/
+TAG POS=1 TYPE=A ATTR=TXT:Buscar
+TAG POS=1 TYPE=DIV ATTR=ID:resultStats EXTRACT=TXT
+WAIT SECONDS=10
+URL GOTO=http://localhost/get_dates/get_google_searchs.php?n=&r={{!EXTRACT}}
