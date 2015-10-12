@@ -22,7 +22,7 @@
 // along with this program. If not, see <http://www.gnu.org/licenses/>.
 //////////////////
 
-	//search Google
+	//search Google 
 	preg_match_all("|Aproximadamente (.*) resultados \(|", $_GET['r'], $t);
 	$t2 =  '"' . file_get_contents('link.txt') . '","' . trim(str_replace(array('.', ','), array('', ''), $t[1][0])) . '"<br />';
 	echo $t[1][0];

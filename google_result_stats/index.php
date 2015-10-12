@@ -22,7 +22,7 @@
 // along with this program. If not, see <http://www.gnu.org/licenses/>.
 //////////////////
 
-//list get dates
+//list get dates example
 $array_id = array(
 'hitchwiki.org',
 'wiki.coworking.org',
