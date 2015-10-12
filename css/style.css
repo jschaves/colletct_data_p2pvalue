@@ -1,0 +1,59 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family: verdana;
+}
+.left {
+	margin:10px;
+}
+h1 {
+	border-left: 1px solid;
+	border-right: 1px solid;
+	border-top: 1px solid;
+	font-size: 145%;
+	margin: 2px;
+	padding: 6px 0 0 21px;
+	width: 98%;		
+}
+#select, #source {
+    background-color: #B0E0E6;
+    font-size: 103%;
+    padding: 0.3%;
+	margin: 1%;
+	width: 15%;
+}
+textarea {
+	background-color: #B0E0E6;
+    padding: 0.5%;
+    width: 98.4%;
+}
+.kred {
+    padding: 0 0 0 1%;
+    width: 98.4%;
+}
+input {
+	background-color: #B0E0E6;
+    margin: 0 0 0 1%;
+    padding: 0.5%;
+    width: 21%;
+}
+.res {
+    background-color: #FFC0CB;
+    border: 1px solid;
+    height: 255px;
+    margin: 1% 0 0 1%;
+    overflow: auto;
+    padding: 0.5%;
+    width: 97%;
+}
+img {
+    left: 35%;
+    position: absolute;
+    top: 35%;
+}
+iframe {
+    border: medium none;
+    height: 900px;
+    overflow: auto;
+    width: 100%;
+}
