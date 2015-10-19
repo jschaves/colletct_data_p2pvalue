@@ -1,10 +1,4 @@
 
-	Author: Juan Chaves
-	Email: juan@egeon.es
-	URL: http://www.egeon.es
-	@egeones
-	Version: 0.0.1 
-
 	Copyright (c) 2015 colletct_data_p2pvalue
 	
 	This file is part of colletct_data_p2pvalue.
