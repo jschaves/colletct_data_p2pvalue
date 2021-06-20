@@ -42,6 +42,5 @@ In English:
 </pre>
 
 These scripts were developed in a very tight deadline, so I know they can be improved, and any comments or suggestions, and direct collaboration on this code are highly appreciated.<br />
-If you have any questions, please write to: <a href="mailto:juan@egeon.es>juan@egeon.es</a>
 
 
